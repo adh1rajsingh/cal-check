@@ -2,6 +2,7 @@
 
 A minimalist goal tracking calendar built with Next.js (App Router), TypeScript, and Tailwind CSS. Create a goal with a start and end date, then check off each day as you make progress. All progress is stored locally in your browser (localStorage) keyed by a unique calendar ID.
 
+![Home page](/public/home.png)
 
 ## Features
 - Create a goal calendar with title, start date, end date (validated)
@@ -11,6 +12,8 @@ A minimalist goal tracking calendar built with Next.js (App Router), TypeScript,
 - Local persistence (no backend) for MVP
 - Accessible, semantic UI with keyboard/focus states
 - Design system tokens (colors, radii, shadows, typography)
+
+![Goals page](/public/goal-page.png)
 
 ## Tech Stack
 - Next.js 14 App Router
