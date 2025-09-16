@@ -15,6 +15,8 @@ A minimalist goal tracking calendar built with Next.js (App Router), TypeScript,
 
 ![Goals page](/public/goal-page.png)
 
+![Calendar](/public/habit.png)
+
 ## Tech Stack
 - Next.js 14 App Router
 - React 18 + TypeScript
